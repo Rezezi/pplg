@@ -164,6 +164,14 @@ export const kelas11Projects = [
     image: "/projects/sa.png",
     link: "https://sami-athari.itch.io/nameless-cat", // Link ke Vercel
   },
+
+  {
+    name: "Game",
+    owner: "Yudha Nur Apriyansyah",
+    description: "Game platformer",
+    image: "projects/Screenshot 2024-12-12 062239.png",
+    link: "https://yudha110408.itch.io/jungle", // Link ke Vercel
+  },
   // ... Proyek lainnya untuk kelas 11
 ];
 
